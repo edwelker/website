@@ -4,13 +4,6 @@
   },
   "history": [
     {
-      "dayName": "Sun",
-      "date": "2026-08-30",
-      "hours": "0.1",
-      "lastHours": "0.7",
-      "topArtist": "The Lonely Island"
-    },
-    {
       "dayName": "Mon",
       "date": "2026-08-31",
       "hours": "1.3",
@@ -50,6 +43,13 @@
       "date": "2026-09-05",
       "hours": "0.0",
       "lastHours": "0.3",
+      "topArtist": null
+    },
+    {
+      "dayName": "Sun",
+      "date": "2026-09-06",
+      "hours": "0.0",
+      "lastHours": "0.1",
       "topArtist": null
     }
   ],
@@ -148,12 +148,6 @@
       {
         "name": "Roy Harris",
         "url": "https://www.last.fm/music/Roy+Harris",
-        "plays": "4",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Sergei Prokofiev",
-        "url": "https://www.last.fm/music/Sergei+Prokofiev",
         "plays": "4",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -260,12 +254,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "The Lonely Island",
-        "url": "https://www.last.fm/music/The+Lonely+Island",
-        "plays": "2",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
         "name": "The Notorious B.I.G.",
         "url": "https://www.last.fm/music/The+Notorious+B.I.G.",
         "plays": "2",
@@ -292,6 +280,18 @@
       {
         "name": "Big Punisher",
         "url": "https://www.last.fm/music/Big+Punisher",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Blackstreet",
+        "url": "https://www.last.fm/music/Blackstreet",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Buck McDaniel",
+        "url": "https://www.last.fm/music/Buck+McDaniel",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
@@ -387,13 +387,6 @@
         "artist": "Emerson String Quartet",
         "plays": "4",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d853e05fa5304066815ac04281be62ed.jpg"
-      },
-      {
-        "name": "Piano Concertos: No. 2 in G minor, op. 16 / No. 3 in C major, op. 26",
-        "url": "https://www.last.fm/music/Sergei+Prokofiev;+Royal+Concertgebouw+Orchestra,+Neeme+J%C3%A4rvi,+Horacio+Guti%C3%A9rrez/Piano+Concertos:+No.+2+in+G+minor,+op.+16+%2F+No.+3+in+C+major,+op.+26",
-        "artist": "Sergei Prokofiev; Royal Concertgebouw Orchestra, Neeme Järvi, Horacio Gutiérrez",
-        "plays": "4",
-        "image": ""
       },
       {
         "name": "Debussy: Nocturnes; Première Rhapsodie; Jeux; La Mer",
@@ -508,13 +501,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7a483359b47821463c1eced172d6bed4.png"
       },
       {
-        "name": "Incredibad",
-        "url": "https://www.last.fm/music/The+Lonely+Island/Incredibad",
-        "artist": "The Lonely Island",
-        "plays": "2",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/00742e9de8111ca1b5edd4a60ed39a20.jpg"
-      },
-      {
         "name": "Greatest Hits",
         "url": "https://www.last.fm/music/2Pac/Greatest+Hits",
         "artist": "2Pac",
@@ -576,6 +562,20 @@
         "artist": "Chamillionaire",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a216b875da1e4c02cc33f67019f0cfb7.png"
+      },
+      {
+        "name": "Gangsta's Paradise",
+        "url": "https://www.last.fm/music/Coolio/Gangsta%27s+Paradise",
+        "artist": "Coolio",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9cc18f264dff4b93ac041b413062b658.png"
+      },
+      {
+        "name": "Flava In Ya Ear Remix",
+        "url": "https://www.last.fm/music/Craig+Mack/Flava+In+Ya+Ear+Remix",
+        "artist": "Craig Mack",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/112fef91345da97ecd6aec11fa177e91.jpg"
       }
     ],
     "tracks": [
@@ -709,13 +709,6 @@
         "name": "Ghetto Supastar (That Is What You Are) (Feat. Ol' Dirty Bastard & Mýa)",
         "url": "https://www.last.fm/music/Pras/_/Ghetto+Supastar+(That+Is+What+You+Are)+(Feat.+Ol%27+Dirty+Bastard+&+M%C3%BDa)",
         "artist": "Pras",
-        "plays": "2",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "I'm On A Boat",
-        "url": "https://www.last.fm/music/The+Lonely+Island/_/I%27m+On+A+Boat",
-        "artist": "The Lonely Island",
         "plays": "2",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -858,6 +851,13 @@
         "artist": "Claude Debussy",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "String Quartet in G Minor, CD 91: IV. Très modéré – Très mouvementé – Très animé",
+        "url": "https://www.last.fm/music/Claude+Debussy/_/String+Quartet+in+G+Minor,+CD+91:+IV.+Tr%C3%A8s+mod%C3%A9r%C3%A9+%E2%80%93+Tr%C3%A8s+mouvement%C3%A9+%E2%80%93+Tr%C3%A8s+anim%C3%A9",
+        "artist": "Claude Debussy",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
     ]
   },
@@ -966,12 +966,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Gogol Bordello",
-        "url": "https://www.last.fm/music/Gogol+Bordello",
-        "plays": "14",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
         "name": "Nikolai Girshevich Kapustin",
         "url": "https://www.last.fm/music/Nikolai+Girshevich+Kapustin",
         "plays": "14",
@@ -980,6 +974,12 @@
       {
         "name": "Ernest Bloch",
         "url": "https://www.last.fm/music/Ernest+Bloch",
+        "plays": "13",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Gogol Bordello",
+        "url": "https://www.last.fm/music/Gogol+Bordello",
         "plays": "13",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -1028,12 +1028,6 @@
       {
         "name": "Cheryl Frances-Hoad",
         "url": "https://www.last.fm/music/Cheryl+Frances-Hoad",
-        "plays": "10",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Collegium Musicum Zürich, Paul Sacher",
-        "url": "https://www.last.fm/music/Collegium+Musicum+Z%C3%BCrich,+Paul+Sacher",
         "plays": "10",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -1100,6 +1094,12 @@
       {
         "name": "Igor Stravinsky",
         "url": "https://www.last.fm/music/Igor+Stravinsky",
+        "plays": "8",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Martin Gendelman",
+        "url": "https://www.last.fm/music/Martin+Gendelman",
         "plays": "8",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
@@ -1246,13 +1246,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1bc16b1f20dfda06e3749b4915721ba9.jpg"
       },
       {
-        "name": "Super Taranta!",
-        "url": "https://www.last.fm/music/Gogol+Bordello/Super+Taranta!",
-        "artist": "Gogol Bordello",
-        "plays": "14",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/38454ccb4ab34466a68584e28ca701a7.png"
-      },
-      {
         "name": "Works for Cello",
         "url": "https://www.last.fm/music/Nikolai+Girshevich+Kapustin/Works+for+Cello",
         "artist": "Nikolai Girshevich Kapustin",
@@ -1272,6 +1265,13 @@
         "artist": "Ernest Bloch",
         "plays": "13",
         "image": ""
+      },
+      {
+        "name": "Super Taranta!",
+        "url": "https://www.last.fm/music/Gogol+Bordello/Super+Taranta!",
+        "artist": "Gogol Bordello",
+        "plays": "13",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/38454ccb4ab34466a68584e28ca701a7.png"
       },
       {
         "name": "CALIGULA",
@@ -1307,13 +1307,6 @@
         "artist": "Sleater‐Kinney",
         "plays": "11",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/83bf379bf3d10ed7b2b68565bc2c6c98.jpg"
-      },
-      {
-        "name": "The Centenary Edition - Erato",
-        "url": "https://www.last.fm/music/Collegium+Musicum+Z%C3%BCrich,+Paul+Sacher/The+Centenary+Edition+-+Erato",
-        "artist": "Collegium Musicum Zürich, Paul Sacher",
-        "plays": "10",
-        "image": ""
       },
       {
         "name": "Grundstück",
@@ -1384,6 +1377,13 @@
         "artist": "Edgar Meyer",
         "plays": "8",
         "image": ""
+      },
+      {
+        "name": "The Fragile",
+        "url": "https://www.last.fm/music/Nine+Inch+Nails/The+Fragile",
+        "artist": "Nine Inch Nails",
+        "plays": "8",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/8eaa9146fbad4b62bd5a489fc0651ec0.png"
       }
     ],
     "tracks": [
@@ -1768,21 +1768,15 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Nine Inch Nails",
-        "url": "https://www.last.fm/music/Nine+Inch+Nails",
-        "plays": "83",
+        "name": "Maurice Ravel",
+        "url": "https://www.last.fm/music/Maurice+Ravel",
+        "plays": "78",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
         "name": "Einstürzende Neubauten",
         "url": "https://www.last.fm/music/Einst%C3%BCrzende+Neubauten",
-        "plays": "79",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Maurice Ravel",
-        "url": "https://www.last.fm/music/Maurice+Ravel",
-        "plays": "78",
+        "plays": "77",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -1816,6 +1810,12 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
+        "name": "Nine Inch Nails",
+        "url": "https://www.last.fm/music/Nine+Inch+Nails",
+        "plays": "72",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
         "name": "Lera Auerbach",
         "url": "https://www.last.fm/music/Lera+Auerbach",
         "plays": "71",
@@ -1830,7 +1830,7 @@
       {
         "name": "Rasputina",
         "url": "https://www.last.fm/music/Rasputina",
-        "plays": "68",
+        "plays": "67",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
