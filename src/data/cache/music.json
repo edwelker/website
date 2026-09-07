@@ -1,6 +1,6 @@
 {
   "user": {
-    "scrobbles": 277686
+    "scrobbles": 277690
   },
   "history": [
     {
@@ -48,9 +48,9 @@
     {
       "dayName": "Mon",
       "date": "2026-09-07",
-      "hours": "0.4",
+      "hours": "0.6",
       "lastHours": "1.3",
-      "topArtist": "Roy Harris"
+      "topArtist": "Anna Clyne"
     }
   ],
   "week": {
@@ -110,9 +110,9 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Erik Satie",
-        "url": "https://www.last.fm/music/Erik+Satie",
-        "plays": "6",
+        "name": "Anna Clyne",
+        "url": "https://www.last.fm/music/Anna+Clyne",
+        "plays": "5",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -212,12 +212,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Jan & Dean",
-        "url": "https://www.last.fm/music/Jan+&+Dean",
-        "plays": "2",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
         "name": "Missy Elliott",
         "url": "https://www.last.fm/music/Missy+Elliott",
         "plays": "2",
@@ -260,12 +254,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Anna Clyne",
-        "url": "https://www.last.fm/music/Anna+Clyne",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
         "name": "Beastie Boys",
         "url": "https://www.last.fm/music/Beastie+Boys",
         "plays": "1",
@@ -292,6 +280,18 @@
       {
         "name": "Bone Thugs-N-Harmony",
         "url": "https://www.last.fm/music/Bone+Thugs-N-Harmony",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Busta Rhymes",
+        "url": "https://www.last.fm/music/Busta+Rhymes",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Cam'ron",
+        "url": "https://www.last.fm/music/Cam%27ron",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
@@ -333,13 +333,6 @@
         "image": ""
       },
       {
-        "name": "Gnossiennes and Fantasy",
-        "url": "https://www.last.fm/music/Carrie+Frey/Gnossiennes+and+Fantasy",
-        "artist": "Carrie Frey",
-        "plays": "8",
-        "image": ""
-      },
-      {
         "name": "Volume 8: String Quartets nos. 1 & 2",
         "url": "https://www.last.fm/music/Dmitri+Kabalevsky/Volume+8:+String+Quartets+nos.+1+&+2",
         "artist": "Dmitri Kabalevsky",
@@ -359,6 +352,13 @@
         "artist": "Dmitri Shostakovich",
         "plays": "6",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/297b0735ec4f2a27b666fd5ba55346e6.jpg"
+      },
+      {
+        "name": "Anna Clyne: Mythologies",
+        "url": "https://www.last.fm/music/Anna+Clyne/Anna+Clyne:+Mythologies",
+        "artist": "Anna Clyne",
+        "plays": "5",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fb363f1b0612234cbbcd6f8f7ca2454.png"
       },
       {
         "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
@@ -452,13 +452,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0e1b88f3cfe1ba8b49f887d193d6cdf2.png"
       },
       {
-        "name": "The Little Old Lady From Pasadena",
-        "url": "https://www.last.fm/music/Jan+&+Dean/The+Little+Old+Lady+From+Pasadena",
-        "artist": "Jan & Dean",
-        "plays": "2",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/b3dea9e2f7ab4d76baf2866e0418e832.jpg"
-      },
-      {
         "name": "Word of Mouf",
         "url": "https://www.last.fm/music/Ludacris/Word+of+Mouf",
         "artist": "Ludacris",
@@ -515,13 +508,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0df88df2ca9e67709d7a73a3553db7a1.jpg"
       },
       {
-        "name": "Anna Clyne: Mythologies",
-        "url": "https://www.last.fm/music/Anna+Clyne/Anna+Clyne:+Mythologies",
-        "artist": "Anna Clyne",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fb363f1b0612234cbbcd6f8f7ca2454.png"
-      },
-      {
         "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
         "url": "https://www.last.fm/music/Beastie+Boys/Paul%27s+Boutique+(20th+Anniversary+Edition+%2F+Remastered)",
         "artist": "Beastie Boys",
@@ -576,6 +562,20 @@
         "artist": "Caroline Shaw",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/42d7e1d3c57db3d8a37f6ed181b6374b.jpg"
+      },
+      {
+        "name": "The Sound of Revenge",
+        "url": "https://www.last.fm/music/Chamillionaire/The+Sound+of+Revenge",
+        "artist": "Chamillionaire",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a216b875da1e4c02cc33f67019f0cfb7.png"
+      },
+      {
+        "name": "Gangsta's Paradise",
+        "url": "https://www.last.fm/music/Coolio/Gangsta%27s+Paradise",
+        "artist": "Coolio",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/9cc18f264dff4b93ac041b413062b658.png"
       }
     ],
     "tracks": [
@@ -650,13 +650,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "The Little Old Lady (From Pasadena)",
-        "url": "https://www.last.fm/music/Jan+&+Dean/_/The+Little+Old+Lady+(From+Pasadena)",
-        "artist": "Jan & Dean",
-        "plays": "2",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
         "name": "Hope",
         "url": "https://www.last.fm/music/Levinhurst/_/Hope",
         "artist": "Levinhurst",
@@ -727,8 +720,36 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
+        "name": "<<rewind<<",
+        "url": "https://www.last.fm/music/Anna+Clyne/_/%3C%3Crewind%3C%3C",
+        "artist": "Anna Clyne",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
         "name": "Masquerade",
         "url": "https://www.last.fm/music/Anna+Clyne/_/Masquerade",
+        "artist": "Anna Clyne",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Night Ferry",
+        "url": "https://www.last.fm/music/Anna+Clyne/_/Night+Ferry",
+        "artist": "Anna Clyne",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "The Seamstress",
+        "url": "https://www.last.fm/music/Anna+Clyne/_/The+Seamstress",
+        "artist": "Anna Clyne",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "This Midnight Hour",
+        "url": "https://www.last.fm/music/Anna+Clyne/_/This+Midnight+Hour",
         "artist": "Anna Clyne",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
@@ -779,13 +800,6 @@
         "name": "Tha Crossroads",
         "url": "https://www.last.fm/music/Bone+Thugs-N-Harmony/_/Tha+Crossroads",
         "artist": "Bone Thugs-N-Harmony",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Gnossienne No. 1",
-        "url": "https://www.last.fm/music/Buck+McDaniel/_/Gnossienne+No.+1",
-        "artist": "Buck McDaniel",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -844,20 +858,6 @@
         "artist": "Claude Debussy",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "String Quartet in G Minor, CD 91: II. Scherzo. Assez vif et bien rythmé",
-        "url": "https://www.last.fm/music/Claude+Debussy/_/String+Quartet+in+G+Minor,+CD+91:+II.+Scherzo.+Assez+vif+et+bien+rythm%C3%A9",
-        "artist": "Claude Debussy",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "String Quartet in G Minor, CD 91: III. Andantino, doucement expressif",
-        "url": "https://www.last.fm/music/Claude+Debussy/_/String+Quartet+in+G+Minor,+CD+91:+III.+Andantino,+doucement+expressif",
-        "artist": "Claude Debussy",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
     ]
   },
@@ -867,12 +867,6 @@
         "name": "Frank Bridge",
         "url": "https://www.last.fm/music/Frank+Bridge",
         "plays": "85",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Depeche Mode",
-        "url": "https://www.last.fm/music/Depeche+Mode",
-        "plays": "41",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -888,15 +882,15 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Claude Debussy",
-        "url": "https://www.last.fm/music/Claude+Debussy",
-        "plays": "35",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
         "name": "William Walton",
         "url": "https://www.last.fm/music/William+Walton",
         "plays": "34",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Claude Debussy",
+        "url": "https://www.last.fm/music/Claude+Debussy",
+        "plays": "29",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -933,6 +927,12 @@
         "name": "Benjamin Britten",
         "url": "https://www.last.fm/music/Benjamin+Britten",
         "plays": "21",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Depeche Mode",
+        "url": "https://www.last.fm/music/Depeche+Mode",
+        "plays": "20",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -1176,13 +1176,6 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/277888ef7c43e641df662273beab9e9b.jpg"
       },
       {
-        "name": "The Singles 86>98",
-        "url": "https://www.last.fm/music/Depeche+Mode/The+Singles+86%3E98",
-        "artist": "Depeche Mode",
-        "plays": "21",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/c299ae68298f47d697dced1e0e36df47.png"
-      },
-      {
         "name": "101",
         "url": "https://www.last.fm/music/Depeche+Mode/101",
         "artist": "Depeche Mode",
@@ -1250,13 +1243,6 @@
         "url": "https://www.last.fm/music/Nikolai+Girshevich+Kapustin/Works+for+Cello",
         "artist": "Nikolai Girshevich Kapustin",
         "plays": "14",
-        "image": ""
-      },
-      {
-        "name": "La Mer / Nocturnes / Prelude to the Afternoon of a Faun",
-        "url": "https://www.last.fm/music/Claude+Debussy/La+Mer+%2F+Nocturnes+%2F+Prelude+to+the+Afternoon+of+a+Faun",
-        "artist": "Claude Debussy",
-        "plays": "13",
         "image": ""
       },
       {
@@ -1384,6 +1370,20 @@
         "artist": "Alan Hovhaness",
         "plays": "7",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dbaf0323a2dd011658248513136dcbdf.jpg"
+      },
+      {
+        "name": "E. 1999 Eternal",
+        "url": "https://www.last.fm/music/Bone+Thugs-N-Harmony/E.+1999+Eternal",
+        "artist": "Bone Thugs-N-Harmony",
+        "plays": "7",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eab99d27d94d8e629f8da1c8de78a18d.png"
+      },
+      {
+        "name": "LESSER ARCANA",
+        "url": "https://www.last.fm/music/Carrie+Frey/LESSER+ARCANA",
+        "artist": "Carrie Frey",
+        "plays": "7",
+        "image": ""
       }
     ],
     "tracks": [
