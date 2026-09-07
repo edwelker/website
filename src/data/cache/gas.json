@@ -26,12 +26,12 @@
       "City": "Scaggsville / Laurel",
       "Zip": "20723",
       "Station": "Exxon",
-      "Address": "9275 All Saints Rd, 20723",
-      "Base": "4.09",
+      "Address": "8850 Gorman Rd, 20723",
+      "Base": "4.15",
       "Discount": "Exxon",
-      "Lat": "39.1189484",
-      "Long": "-76.8513125",
-      "Net": "4.06"
+      "Lat": "39.1315805",
+      "Long": "-76.8205188",
+      "Net": "4.12"
     },
     {
       "City": "Scaggsville / Laurel",
@@ -48,12 +48,12 @@
       "City": "Scaggsville / Laurel",
       "Zip": "20723",
       "Station": "Exxon",
-      "Address": "8850 Gorman Rd, 20723",
-      "Base": "4.15",
+      "Address": "9275 All Saints Rd, 20723",
+      "Base": "4.09",
       "Discount": "Exxon",
-      "Lat": "39.1315805",
-      "Long": "-76.8205188",
-      "Net": "4.12"
+      "Lat": "39.1189484",
+      "Long": "-76.8513125",
+      "Net": "4.06"
     }
   ],
   "ny": [
@@ -82,17 +82,6 @@
     {
       "City": "Riverhead",
       "Zip": "11901",
-      "Station": "Empire",
-      "Address": "640 Main Rd, 11901",
-      "Base": "4.07",
-      "Discount": "-",
-      "Lat": "40.9396238",
-      "Long": "-72.6416222",
-      "Net": "4.07"
-    },
-    {
-      "City": "Riverhead",
-      "Zip": "11901",
       "Station": "7-Eleven",
       "Address": "870 Old Country Rd, 11901",
       "Base": "4.29",
@@ -100,6 +89,17 @@
       "Lat": "40.9346058",
       "Long": "-72.6699464",
       "Net": "4.26"
+    },
+    {
+      "City": "Riverhead",
+      "Zip": "11901",
+      "Station": "Empire",
+      "Address": "640 Main Rd, 11901",
+      "Base": "4.07",
+      "Discount": "-",
+      "Lat": "40.9396238",
+      "Long": "-72.6416222",
+      "Net": "4.07"
     }
   ],
   "ma": [
