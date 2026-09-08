@@ -1,6 +1,6 @@
 {
   "user": {
-    "scrobbles": 277738
+    "scrobbles": 277742
   },
   "history": [
     {
@@ -48,7 +48,7 @@
     {
       "dayName": "Tue",
       "date": "2026-09-08",
-      "hours": "1.9",
+      "hours": "2.2",
       "lastHours": "4.0",
       "topArtist": "The Lonely Island"
     }
@@ -56,14 +56,14 @@
   "week": {
     "artists": [
       {
-        "name": "Levinhurst",
-        "url": "https://www.last.fm/music/Levinhurst",
-        "plays": "22",
+        "name": "The Lonely Island",
+        "url": "https://www.last.fm/music/The+Lonely+Island",
+        "plays": "23",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "The Lonely Island",
-        "url": "https://www.last.fm/music/The+Lonely+Island",
+        "name": "Levinhurst",
+        "url": "https://www.last.fm/music/Levinhurst",
         "plays": "22",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -122,6 +122,12 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
+        "name": "Busta Rhymes",
+        "url": "https://www.last.fm/music/Busta+Rhymes",
+        "plays": "5",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
         "name": "Esa‐Pekka Salonen",
         "url": "https://www.last.fm/music/Esa%E2%80%90Pekka+Salonen",
         "plays": "5",
@@ -158,14 +164,14 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Busta Rhymes",
-        "url": "https://www.last.fm/music/Busta+Rhymes",
+        "name": "Chamillionaire",
+        "url": "https://www.last.fm/music/Chamillionaire",
         "plays": "3",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Chamillionaire",
-        "url": "https://www.last.fm/music/Chamillionaire",
+        "name": "Eric B. & Rakim",
+        "url": "https://www.last.fm/music/Eric+B.+&+Rakim",
         "plays": "3",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -226,12 +232,6 @@
       {
         "name": "Dr. Dre",
         "url": "https://www.last.fm/music/Dr.+Dre",
-        "plays": "2",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Eric B. & Rakim",
-        "url": "https://www.last.fm/music/Eric+B.+&+Rakim",
         "plays": "2",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -308,7 +308,7 @@
         "name": "Popstar: Never Stop Never Stopping",
         "url": "https://www.last.fm/music/The+Lonely+Island/Popstar:+Never+Stop+Never+Stopping",
         "artist": "The Lonely Island",
-        "plays": "21",
+        "plays": "22",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7c906a17b442f34376c75db71e38fef6.jpg"
       },
       {
@@ -459,6 +459,13 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/bb77c77fc1a103842c22022d7ed68f7f.png"
       },
       {
+        "name": "Paid in Full",
+        "url": "https://www.last.fm/music/Eric+B.+&+Rakim/Paid+in+Full",
+        "artist": "Eric B. & Rakim",
+        "plays": "2",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/601baac180bc36fc53f07e5481867baa.jpg"
+      },
+      {
         "name": "Œuvres pour violoncelle seul",
         "url": "https://www.last.fm/music/Gy%C3%B6rgy+Ligeti/%C5%92uvres+pour+violoncelle+seul",
         "artist": "György Ligeti",
@@ -569,13 +576,6 @@
         "artist": "Arrested Development",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0eda386aeac01f186b4ce04c3e870aa6.jpg"
-      },
-      {
-        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
-        "url": "https://www.last.fm/music/Beastie+Boys/Paul%27s+Boutique+(20th+Anniversary+Edition+%2F+Remastered)",
-        "artist": "Beastie Boys",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/586b695e0abb27df860116a09781ef15.png"
       }
     ],
     "tracks": [
@@ -681,6 +681,13 @@
         "name": "Ghetto Supastar (That Is What You Are) (Feat. Ol' Dirty Bastard & Mýa)",
         "url": "https://www.last.fm/music/Pras/_/Ghetto+Supastar+(That+Is+What+You+Are)+(Feat.+Ol%27+Dirty+Bastard+&+M%C3%BDa)",
         "artist": "Pras",
+        "plays": "2",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Hunter The Hungry Is Gon’ Eat",
+        "url": "https://www.last.fm/music/The+Lonely+Island/_/Hunter+The+Hungry+Is+Gon%E2%80%99+Eat",
+        "artist": "The Lonely Island",
         "plays": "2",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -851,13 +858,6 @@
         "artist": "Bone Thugs-N-Harmony",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Break Ya Neck",
-        "url": "https://www.last.fm/music/Busta+Rhymes/_/Break+Ya+Neck",
-        "artist": "Busta Rhymes",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
     ]
   },
@@ -906,14 +906,14 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Frederica von Stade, André Previn, Pittsburgh Symphony Orchestra",
-        "url": "https://www.last.fm/music/Frederica+von+Stade,+Andr%C3%A9+Previn,+Pittsburgh+Symphony+Orchestra",
-        "plays": "26",
+        "name": "The Lonely Island",
+        "url": "https://www.last.fm/music/The+Lonely+Island",
+        "plays": "27",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "The Lonely Island",
-        "url": "https://www.last.fm/music/The+Lonely+Island",
+        "name": "Frederica von Stade, André Previn, Pittsburgh Symphony Orchestra",
+        "url": "https://www.last.fm/music/Frederica+von+Stade,+Andr%C3%A9+Previn,+Pittsburgh+Symphony+Orchestra",
         "plays": "26",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -930,15 +930,15 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Benjamin Britten",
-        "url": "https://www.last.fm/music/Benjamin+Britten",
-        "plays": "21",
+        "name": "Busta Rhymes",
+        "url": "https://www.last.fm/music/Busta+Rhymes",
+        "plays": "22",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Busta Rhymes",
-        "url": "https://www.last.fm/music/Busta+Rhymes",
-        "plays": "20",
+        "name": "Benjamin Britten",
+        "url": "https://www.last.fm/music/Benjamin+Britten",
+        "plays": "21",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -1179,7 +1179,7 @@
         "name": "Popstar: Never Stop Never Stopping",
         "url": "https://www.last.fm/music/The+Lonely+Island/Popstar:+Never+Stop+Never+Stopping",
         "artist": "The Lonely Island",
-        "plays": "21",
+        "plays": "22",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7c906a17b442f34376c75db71e38fef6.jpg"
       },
       {
@@ -1846,15 +1846,15 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Zella Day",
-        "url": "https://www.last.fm/music/Zella+Day",
+        "name": "The Lonely Island",
+        "url": "https://www.last.fm/music/The+Lonely+Island",
         "plays": "60",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "The Lonely Island",
-        "url": "https://www.last.fm/music/The+Lonely+Island",
-        "plays": "59",
+        "name": "Zella Day",
+        "url": "https://www.last.fm/music/Zella+Day",
+        "plays": "60",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -2572,7 +2572,7 @@
       {
         "name": "The Lonely Island",
         "url": "https://www.last.fm/music/The+Lonely+Island",
-        "plays": "1978",
+        "plays": "1979",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -2656,7 +2656,7 @@
       {
         "name": "Busta Rhymes",
         "url": "https://www.last.fm/music/Busta+Rhymes",
-        "plays": "1610",
+        "plays": "1612",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -3161,7 +3161,7 @@
         "name": "Gimme Some More",
         "url": "https://www.last.fm/music/Busta+Rhymes/_/Gimme+Some+More",
         "artist": "Busta Rhymes",
-        "plays": "183",
+        "plays": "184",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
