@@ -1,6 +1,6 @@
 {
   "user": {
-    "scrobbles": 277742
+    "scrobbles": 277757
   },
   "history": [
     {
@@ -41,14 +41,14 @@
     {
       "dayName": "Mon",
       "date": "2026-09-07",
-      "hours": "1.5",
+      "hours": "1.6",
       "lastHours": "1.3",
       "topArtist": "The Lonely Island"
     },
     {
       "dayName": "Tue",
       "date": "2026-09-08",
-      "hours": "2.2",
+      "hours": "3.0",
       "lastHours": "4.0",
       "topArtist": "The Lonely Island"
     }
@@ -58,13 +58,19 @@
       {
         "name": "The Lonely Island",
         "url": "https://www.last.fm/music/The+Lonely+Island",
-        "plays": "23",
+        "plays": "24",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
         "name": "Levinhurst",
         "url": "https://www.last.fm/music/Levinhurst",
         "plays": "22",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Dobrinka Tabakova",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova",
+        "plays": "18",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -92,21 +98,15 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Roy Harris",
-        "url": "https://www.last.fm/music/Roy+Harris",
-        "plays": "9",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
         "name": "Dmitri Kabalevsky",
         "url": "https://www.last.fm/music/Dmitri+Kabalevsky",
         "plays": "8",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Claude Debussy",
-        "url": "https://www.last.fm/music/Claude+Debussy",
-        "plays": "7",
+        "name": "Roy Harris",
+        "url": "https://www.last.fm/music/Roy+Harris",
+        "plays": "8",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -131,18 +131,6 @@
         "name": "Esa‐Pekka Salonen",
         "url": "https://www.last.fm/music/Esa%E2%80%90Pekka+Salonen",
         "plays": "5",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Jean Sibelius",
-        "url": "https://www.last.fm/music/Jean+Sibelius",
-        "plays": "5",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Dobrinka Tabakova",
-        "url": "https://www.last.fm/music/Dobrinka+Tabakova",
-        "plays": "4",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -202,12 +190,6 @@
       {
         "name": "Naughty By Nature",
         "url": "https://www.last.fm/music/Naughty+By+Nature",
-        "plays": "3",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "William Walton",
-        "url": "https://www.last.fm/music/William+Walton",
         "plays": "3",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -294,9 +276,34 @@
         "url": "https://www.last.fm/music/Snoop+Dogg",
         "plays": "2",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "The Notorious B.I.G.",
+        "url": "https://www.last.fm/music/The+Notorious+B.I.G.",
+        "plays": "2",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Wreckx-N-Effect",
+        "url": "https://www.last.fm/music/Wreckx-N-Effect",
+        "plays": "2",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "50 Cent",
+        "url": "https://www.last.fm/music/50+Cent",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
     ],
     "albums": [
+      {
+        "name": "Popstar: Never Stop Never Stopping",
+        "url": "https://www.last.fm/music/The+Lonely+Island/Popstar:+Never+Stop+Never+Stopping",
+        "artist": "The Lonely Island",
+        "plays": "23",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7c906a17b442f34376c75db71e38fef6.jpg"
+      },
       {
         "name": "Perfect life",
         "url": "https://www.last.fm/music/Levinhurst/Perfect+life",
@@ -305,11 +312,11 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/3a568ee6ae63c3be1738e38c3bc12c53.jpg"
       },
       {
-        "name": "Popstar: Never Stop Never Stopping",
-        "url": "https://www.last.fm/music/The+Lonely+Island/Popstar:+Never+Stop+Never+Stopping",
-        "artist": "The Lonely Island",
-        "plays": "22",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7c906a17b442f34376c75db71e38fef6.jpg"
+        "name": "Dobrinka Tabakova: String Paths",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova/Dobrinka+Tabakova:+String+Paths",
+        "artist": "Dobrinka Tabakova",
+        "plays": "18",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7443b82bb9dd41836c0de0dce03a3add.png"
       },
       {
         "name": "Works for Cello",
@@ -347,13 +354,6 @@
         "image": ""
       },
       {
-        "name": "Roy Harris & John Adams: Violin Concertos",
-        "url": "https://www.last.fm/music/Tamsin+Waley-Cohen/Roy+Harris+&+John+Adams:+Violin+Concertos",
-        "artist": "Tamsin Waley-Cohen",
-        "plays": "7",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2b3486a716f2ffcf97c85f4292b4202f.jpg"
-      },
-      {
         "name": "Shostakovich: Symphonies Nos. 4 & 11 \"The Year 1905\" (Live)",
         "url": "https://www.last.fm/music/Dmitri+Shostakovich/Shostakovich:+Symphonies+Nos.+4+&+11+%22The+Year+1905%22+(Live)",
         "artist": "Dmitri Shostakovich",
@@ -361,18 +361,18 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/297b0735ec4f2a27b666fd5ba55346e6.jpg"
       },
       {
+        "name": "Roy Harris & John Adams: Violin Concertos",
+        "url": "https://www.last.fm/music/Tamsin+Waley-Cohen/Roy+Harris+&+John+Adams:+Violin+Concertos",
+        "artist": "Tamsin Waley-Cohen",
+        "plays": "6",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2b3486a716f2ffcf97c85f4292b4202f.jpg"
+      },
+      {
         "name": "Anna Clyne: Mythologies",
         "url": "https://www.last.fm/music/Anna+Clyne/Anna+Clyne:+Mythologies",
         "artist": "Anna Clyne",
         "plays": "5",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/1fb363f1b0612234cbbcd6f8f7ca2454.png"
-      },
-      {
-        "name": "Intimate Voices: Grieg, Nielsen, Sibelius",
-        "url": "https://www.last.fm/music/Emerson+String+Quartet/Intimate+Voices:+Grieg,+Nielsen,+Sibelius",
-        "artist": "Emerson String Quartet",
-        "plays": "5",
-        "image": ""
       },
       {
         "name": "Works for Solo Cello",
@@ -389,32 +389,11 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/5c9cc2154b3dae1f46860ff8fe1adde3.jpg"
       },
       {
-        "name": "Dobrinka Tabakova: String Paths",
-        "url": "https://www.last.fm/music/Dobrinka+Tabakova/Dobrinka+Tabakova:+String+Paths",
-        "artist": "Dobrinka Tabakova",
-        "plays": "4",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7443b82bb9dd41836c0de0dce03a3add.png"
-      },
-      {
-        "name": "Debussy / Ravel: String Quartets",
-        "url": "https://www.last.fm/music/Emerson+String+Quartet/Debussy+%2F+Ravel:+String+Quartets",
-        "artist": "Emerson String Quartet",
-        "plays": "4",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/d853e05fa5304066815ac04281be62ed.jpg"
-      },
-      {
         "name": "The Sound of Revenge",
         "url": "https://www.last.fm/music/Chamillionaire/The+Sound+of+Revenge",
         "artist": "Chamillionaire",
         "plays": "3",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a216b875da1e4c02cc33f67019f0cfb7.png"
-      },
-      {
-        "name": "Debussy: Nocturnes; Première Rhapsodie; Jeux; La Mer",
-        "url": "https://www.last.fm/music/Claude+Debussy/Debussy:+Nocturnes;+Premi%C3%A8re+Rhapsodie;+Jeux;+La+Mer",
-        "artist": "Claude Debussy",
-        "plays": "3",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2e506897e61e481bc844203336694f43.jpg"
       },
       {
         "name": "Greatest Hits",
@@ -436,13 +415,6 @@
         "artist": "Henri Dutilleux",
         "plays": "3",
         "image": ""
-      },
-      {
-        "name": "Walton: Symphony No.1 in B-Flat Minor",
-        "url": "https://www.last.fm/music/William+Walton/Walton:+Symphony+No.1+in+B-Flat+Minor",
-        "artist": "William Walton",
-        "plays": "3",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/a9875d84bf08b686b5287bfc48cdaf3b.jpg"
       },
       {
         "name": "All Eyez on Me",
@@ -576,9 +548,58 @@
         "artist": "Arrested Development",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/0eda386aeac01f186b4ce04c3e870aa6.jpg"
+      },
+      {
+        "name": "Paul's Boutique (20th Anniversary Edition / Remastered)",
+        "url": "https://www.last.fm/music/Beastie+Boys/Paul%27s+Boutique+(20th+Anniversary+Edition+%2F+Remastered)",
+        "artist": "Beastie Boys",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/586b695e0abb27df860116a09781ef15.png"
+      },
+      {
+        "name": "Works for Cello",
+        "url": "https://www.last.fm/music/Benyamin+Nuss,+Christine+Rauh/Works+for+Cello",
+        "artist": "Benyamin Nuss, Christine Rauh",
+        "plays": "1",
+        "image": ""
+      },
+      {
+        "name": "Capital Punishment",
+        "url": "https://www.last.fm/music/Big+Pun/Capital+Punishment",
+        "artist": "Big Pun",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/41f6c5f352137e78a23eae4632e98b8d.jpg"
+      },
+      {
+        "name": "A Wolf In Sheep's Clothing",
+        "url": "https://www.last.fm/music/Black+Sheep/A+Wolf+In+Sheep%27s+Clothing",
+        "artist": "Black Sheep",
+        "plays": "1",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/4fc0be8a14ede285ec63e8c9368ae04b.png"
       }
     ],
     "tracks": [
+      {
+        "name": "Cello Concerto: I. Turbulent, Tense",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova/_/Cello+Concerto:+I.+Turbulent,+Tense",
+        "artist": "Dobrinka Tabakova",
+        "plays": "3",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Cello Concerto: II. Longing",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova/_/Cello+Concerto:+II.+Longing",
+        "artist": "Dobrinka Tabakova",
+        "plays": "3",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Cello Concerto: III. Radiant",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova/_/Cello+Concerto:+III.+Radiant",
+        "artist": "Dobrinka Tabakova",
+        "plays": "3",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
       {
         "name": "Islands in the Stream",
         "url": "https://www.last.fm/music/Dolly+Parton/_/Islands+in+the+Stream",
@@ -601,16 +622,30 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Symphony No. 1 in B-Flat Minor: I. Allegro Assai",
-        "url": "https://www.last.fm/music/William+Walton/_/Symphony+No.+1+in+B-Flat+Minor:+I.+Allegro+Assai",
-        "artist": "William Walton",
-        "plays": "3",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
         "name": "Ridin'",
         "url": "https://www.last.fm/music/Chamillionaire/_/Ridin%27",
         "artist": "Chamillionaire",
+        "plays": "2",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Frozen River Flows",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova/_/Frozen+River+Flows",
+        "artist": "Dobrinka Tabakova",
+        "plays": "2",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Insight",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova/_/Insight",
+        "artist": "Dobrinka Tabakova",
+        "plays": "2",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Suite in Old Style: Prelude. Fanfare from the Balconies – I. Through Mirrored Corridors",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova/_/Suite+in+Old+Style:+Prelude.+Fanfare+from+the+Balconies+%E2%80%93+I.+Through+Mirrored+Corridors",
+        "artist": "Dobrinka Tabakova",
         "plays": "2",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -687,6 +722,13 @@
       {
         "name": "Hunter The Hungry Is Gon’ Eat",
         "url": "https://www.last.fm/music/The+Lonely+Island/_/Hunter+The+Hungry+Is+Gon%E2%80%99+Eat",
+        "artist": "The Lonely Island",
+        "plays": "2",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Mona Lisa",
+        "url": "https://www.last.fm/music/The+Lonely+Island/_/Mona+Lisa",
         "artist": "The Lonely Island",
         "plays": "2",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
@@ -816,48 +858,6 @@
         "artist": "Benyamin Nuss, Christine Rauh",
         "plays": "1",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Crazy in Love (feat. JAY-Z)",
-        "url": "https://www.last.fm/music/Beyonc%C3%A9/_/Crazy+in+Love+(feat.+JAY-Z)",
-        "artist": "Beyoncé",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Naughty Girl",
-        "url": "https://www.last.fm/music/Beyonc%C3%A9/_/Naughty+Girl",
-        "artist": "Beyoncé",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Still Not a Player (feat. Joe) - Radio Version",
-        "url": "https://www.last.fm/music/Big+Pun/_/Still+Not+a+Player+(feat.+Joe)+-+Radio+Version",
-        "artist": "Big Pun",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "The Choice Is Yours (Revisited)",
-        "url": "https://www.last.fm/music/Black+Sheep/_/The+Choice+Is+Yours+(Revisited)",
-        "artist": "Black Sheep",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "No Diggity",
-        "url": "https://www.last.fm/music/Blackstreet/_/No+Diggity",
-        "artist": "Blackstreet",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Tha Crossroads",
-        "url": "https://www.last.fm/music/Bone+Thugs-N-Harmony/_/Tha+Crossroads",
-        "artist": "Bone Thugs-N-Harmony",
-        "plays": "1",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
     ]
   },
@@ -900,14 +900,14 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Béla Bartók",
-        "url": "https://www.last.fm/music/B%C3%A9la+Bart%C3%B3k",
-        "plays": "27",
+        "name": "The Lonely Island",
+        "url": "https://www.last.fm/music/The+Lonely+Island",
+        "plays": "28",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "The Lonely Island",
-        "url": "https://www.last.fm/music/The+Lonely+Island",
+        "name": "Béla Bartók",
+        "url": "https://www.last.fm/music/B%C3%A9la+Bart%C3%B3k",
         "plays": "27",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
@@ -945,6 +945,12 @@
         "name": "Depeche Mode",
         "url": "https://www.last.fm/music/Depeche+Mode",
         "plays": "20",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
+      },
+      {
+        "name": "Dobrinka Tabakova",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova",
+        "plays": "18",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -1096,12 +1102,6 @@
         "url": "https://www.last.fm/music/Bobbie+Gentry",
         "plays": "8",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
-      },
-      {
-        "name": "Igor Stravinsky",
-        "url": "https://www.last.fm/music/Igor+Stravinsky",
-        "plays": "8",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
     ],
     "albums": [
@@ -1169,6 +1169,13 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/fbc2017bc4821572389eb2459538c6cc.jpg"
       },
       {
+        "name": "Popstar: Never Stop Never Stopping",
+        "url": "https://www.last.fm/music/The+Lonely+Island/Popstar:+Never+Stop+Never+Stopping",
+        "artist": "The Lonely Island",
+        "plays": "23",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7c906a17b442f34376c75db71e38fef6.jpg"
+      },
+      {
         "name": "Lost Highway",
         "url": "https://www.last.fm/music/Various+Artists/Lost+Highway",
         "artist": "Various Artists",
@@ -1176,18 +1183,18 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/277888ef7c43e641df662273beab9e9b.jpg"
       },
       {
-        "name": "Popstar: Never Stop Never Stopping",
-        "url": "https://www.last.fm/music/The+Lonely+Island/Popstar:+Never+Stop+Never+Stopping",
-        "artist": "The Lonely Island",
-        "plays": "22",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7c906a17b442f34376c75db71e38fef6.jpg"
-      },
-      {
         "name": "101",
         "url": "https://www.last.fm/music/Depeche+Mode/101",
         "artist": "Depeche Mode",
         "plays": "20",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/608eb3f715fb42a4b87130ae5671ac7b.png"
+      },
+      {
+        "name": "Dobrinka Tabakova: String Paths",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova/Dobrinka+Tabakova:+String+Paths",
+        "artist": "Dobrinka Tabakova",
+        "plays": "18",
+        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/7443b82bb9dd41836c0de0dce03a3add.png"
       },
       {
         "name": "The Big Bang",
@@ -1377,13 +1384,6 @@
         "artist": "Alan Hovhaness",
         "plays": "7",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/dbaf0323a2dd011658248513136dcbdf.jpg"
-      },
-      {
-        "name": "E. 1999 Eternal",
-        "url": "https://www.last.fm/music/Bone+Thugs-N-Harmony/E.+1999+Eternal",
-        "artist": "Bone Thugs-N-Harmony",
-        "plays": "7",
-        "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/eab99d27d94d8e629f8da1c8de78a18d.png"
       }
     ],
     "tracks": [
@@ -1661,9 +1661,9 @@
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
-        "name": "Gnossienne: No.5 (Arr. for Harp)",
-        "url": "https://www.last.fm/music/Erik+Satie/_/Gnossienne:+No.5+(Arr.+for+Harp)",
-        "artist": "Erik Satie",
+        "name": "Cello Concerto: I. Turbulent, Tense",
+        "url": "https://www.last.fm/music/Dobrinka+Tabakova/_/Cello+Concerto:+I.+Turbulent,+Tense",
+        "artist": "Dobrinka Tabakova",
         "plays": "3",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       }
@@ -1848,7 +1848,7 @@
       {
         "name": "The Lonely Island",
         "url": "https://www.last.fm/music/The+Lonely+Island",
-        "plays": "60",
+        "plays": "61",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
@@ -2572,7 +2572,7 @@
       {
         "name": "The Lonely Island",
         "url": "https://www.last.fm/music/The+Lonely+Island",
-        "plays": "1979",
+        "plays": "1980",
         "image": "https://lastfm-img.freetls.fastly.net/i/u/300x300/2a96cbd8b46e442fc41c2b86b821562f.png"
       },
       {
