@@ -1,15 +1,23 @@
 {
   "year": {
-    "distance": "3,450.4",
-    "elevation": "129,347",
-    "count": 262
+    "distance": "3,452.3",
+    "elevation": "129,436",
+    "count": 263
   },
   "month": {
     "name": "September",
-    "distance": "151.3",
-    "elevation": "5,069"
+    "distance": "153.2",
+    "elevation": "5,157"
   },
   "recent": [
+    {
+      "name": "East Hampton Cycling",
+      "date": "Sep 7",
+      "distance": "2.0",
+      "elevation": "89",
+      "id": "i184375045",
+      "url": "https://intervals.icu/activities/184375045"
+    },
     {
       "name": "Croton-on-Hudson Road Cycling",
       "date": "Sep 6",
@@ -81,14 +89,6 @@
       "elevation": "367",
       "id": "i181494862",
       "url": "https://intervals.icu/activities/181494862"
-    },
-    {
-      "name": "East Hampton Road Cycling",
-      "date": "Aug 29",
-      "distance": "3.5",
-      "elevation": "180",
-      "id": "i181159302",
-      "url": "https://intervals.icu/activities/181159302"
     }
   ],
   "chart": [
@@ -127,7 +127,7 @@
     115,
     115,
     70,
-    138,
+    140,
     0,
     0,
     0,
