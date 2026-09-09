@@ -49,17 +49,6 @@
     {
       "City": "Riverhead",
       "Zip": "11901",
-      "Station": "USA Gasoline",
-      "Address": "1446 Flanders Rd, 11901",
-      "Base": "4.13",
-      "Discount": "-",
-      "Lat": "40.90403",
-      "Long": "-72.6056344",
-      "Net": "4.13"
-    },
-    {
-      "City": "Riverhead",
-      "Zip": "11901",
       "Station": "76",
       "Address": "7 Peconic Ave, 11901",
       "Base": "4.09",
@@ -78,6 +67,17 @@
       "Lat": "40.9346058",
       "Long": "-72.6699464",
       "Net": "4.26"
+    },
+    {
+      "City": "Riverhead",
+      "Zip": "11901",
+      "Station": "USA Gasoline",
+      "Address": "1446 Flanders Rd, 11901",
+      "Base": "4.13",
+      "Discount": "-",
+      "Lat": "40.90403",
+      "Long": "-72.6056344",
+      "Net": "4.13"
     }
   ],
   "ma": [
@@ -160,6 +160,28 @@
     }
   ],
   "frederick": [
+    {
+      "City": "Columbia (Town Center)",
+      "Zip": "21044",
+      "Station": "BP",
+      "Address": "5485 HARPERS FARM RD, 21044",
+      "Base": "4.59",
+      "Discount": "BP",
+      "Lat": "39.2220799",
+      "Long": "-76.8907487",
+      "Net": "4.54"
+    },
+    {
+      "City": "Columbia (Town Center)",
+      "Zip": "21044",
+      "Station": "Sunoco",
+      "Address": "6440 Freetown Rd, 21044",
+      "Base": "4.59",
+      "Discount": "Sunoco",
+      "Lat": "39.1950229",
+      "Long": "-76.8817831",
+      "Net": "4.56"
+    },
     {
       "City": "Columbia (Town Center)",
       "Zip": "21044",
