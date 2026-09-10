@@ -49,6 +49,17 @@
     {
       "City": "Riverhead",
       "Zip": "11901",
+      "Station": "OK Petroleum",
+      "Address": "1212 E Main St, 11901",
+      "Base": "4.19",
+      "Discount": "-",
+      "Lat": "40.9308412",
+      "Long": "-72.6498192",
+      "Net": "4.19"
+    },
+    {
+      "City": "Riverhead",
+      "Zip": "11901",
       "Station": "76",
       "Address": "7 Peconic Ave, 11901",
       "Base": "4.09",
@@ -67,17 +78,6 @@
       "Lat": "40.9346058",
       "Long": "-72.6699464",
       "Net": "4.26"
-    },
-    {
-      "City": "Riverhead",
-      "Zip": "11901",
-      "Station": "USA Gasoline",
-      "Address": "1446 Flanders Rd, 11901",
-      "Base": "4.13",
-      "Discount": "-",
-      "Lat": "40.90403",
-      "Long": "-72.6056344",
-      "Net": "4.13"
     }
   ],
   "ma": [

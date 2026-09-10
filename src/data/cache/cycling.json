@@ -1,15 +1,23 @@
 {
   "year": {
-    "distance": "3,462.3",
-    "elevation": "129,672",
-    "count": 264
+    "distance": "3,475.6",
+    "elevation": "130,030",
+    "count": 265
   },
   "month": {
     "name": "September",
-    "distance": "163.2",
-    "elevation": "5,394"
+    "distance": "176.5",
+    "elevation": "5,751"
   },
   "recent": [
+    {
+      "name": "East Hampton Road Cycling",
+      "date": "Sep 9",
+      "distance": "13.2",
+      "elevation": "358",
+      "id": "i185081906",
+      "url": "https://intervals.icu/activities/185081906"
+    },
     {
       "name": "East Hampton Road Cycling",
       "date": "Sep 8",
@@ -81,14 +89,6 @@
       "elevation": "495",
       "id": "i181889890",
       "url": "https://intervals.icu/activities/181889890"
-    },
-    {
-      "name": "Southold Road Cycling",
-      "date": "Aug 30",
-      "distance": "12.2",
-      "elevation": "230",
-      "id": "i181521183",
-      "url": "https://intervals.icu/activities/181521183"
     }
   ],
   "chart": [
@@ -127,7 +127,7 @@
     115,
     115,
     70,
-    150,
+    163,
     0,
     0,
     0,
